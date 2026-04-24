@@ -1,6 +1,6 @@
 # Awesome GPT Image 2 🕶️
 
-Last updated on 260424 03:26:42 UTC
+Last updated on 260424 18:15:00 UTC
 
 <img width="100%" alt="Awesome GPT Image 2 Header Banner" src="assets/banner/readme-header-16x9.png" />
 
@@ -119,6 +119,62 @@ A massive pile of rice, and on one single grain of rice there is tiny text that 
 **Comment:** GPT Image 2 leaked. When were you when OpenAI solved yellow filter in GPT Image? Here are some cool outputs from the model, coming soon. This looks like it's going to be the best image model yet!
 **Source:** [@marmaduke091](https://x.com/marmaduke091/status/2040338311873515597)
 
+### Japanese Onsen Ryokan Portrait
+<img width="500" alt="Japanese Onsen Ryokan Portrait" src="https://pbs.twimg.com/media/HGc-2eKWYAATrs9?format=jpg&name=large" />
+
+**Prompt:**
+```text
+35mm film photography, warm vintage Japanese onsen ryokan aesthetic, soft ambient wooden lantern lighting mixed with gentle natural window light, subtle film grain, gentle color shift, high atmosphere editorial style, intimate medium shot, early 20s beautiful Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with warm ivory undertone, visible subtle skin texture and micro pores, soft natural makeup with dewy glow, subtle rosy flush on cheeks, natural soft pink lips slightly parted, long dark brown hair tied in a loose low bun with some messy strands falling around face and neck, wearing a loose white yukata (traditional Japanese bathrobe) deliberately slipped off one shoulder and loosely tied at the waist, the fabric slightly open revealing smooth skin and subtle cleavage, barefoot, seductive relaxed sitting pose on the edge of a traditional wooden engawa veranda at a vintage onsen ryokan, body slightly turned toward the camera, one leg bent with foot resting on the wooden floor, the other leg gently dangling, one hand lightly holding the yukata collar, the other hand resting on the wooden floor behind her for support, softly arched back to gently accentuate curves, intensely seductive yet gentle and inviting gaze straight at the viewer with soft doe eyes full of quiet temptation and warmth, warm wooden interior with paper sliding doors and distant steaming hot spring in soft focus, gentle rim lighting highlighting skin and fabric texture, authentic vintage film color grading with warm tones, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the yukata, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm film Japanese onsen ryokan atmosphere
+```
+**Source:** [@BubbleBrain](https://x.com/BubbleBrain/status/2045092449803284923)
+
+### Basketball Court Direct Flash Portrait
+| Nano Banana 2 | GPT-Image |
+|:-------------:|:---------:|
+| ![Nano Banana 2](https://pbs.twimg.com/media/HFPAX19XMAAJ8V_?format=jpg&name=large) | ![GPT-Image](https://pbs.twimg.com/media/HFPAYuEaIAAaEyD?format=jpg&name=large) |
+
+**Prompt:**
+```text
+35mm color film photography with harsh direct on-camera flash, specular highlights on skin and clothing, strong catchlights in eyes, high contrast flash illumination, authentic film grain and color shift, high fashion fresh innocent basketball court editorial style, intimate first-person low-angle POV shot from below, early 20s sexy Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless realistic porcelain skin with cool ivory undertone and visible flash specular highlights, fine delicate skin texture with subtle pores micro details and natural dewy glow under flash, fresh natural sporty makeup with soft dewy glow, subtle natural flush on cheeks, natural pink lips slightly parted, subtle natural freckles across nose and cheeks, long dark brown hair tied in a high playful ponytail with some loose strands framing the face and realistic loose strands, wearing a loose white tank top and white high-waisted basketball shorts, white knee-high sports socks, seductive natural leaning pose against the basketball hoop pole on the outdoor court at dusk, body angled sideways with naturally arched back and hips gently pushed back to accentuate perky round hips and sexy butt curve, one leg naturally extended forward toward the camera and the other leg slightly bent to emphasize long sexy legs, both hands lightly resting on the basketball pole at shoulder height, intensely seductive playful yet pitiable doe-eyed gaze straight at the viewer with soft vulnerable longing eyes and a gentle teasing smile full of quiet temptation and desire, harsh direct on-camera flash creating sharp specular highlights and strong catchlights, background with blurred basketball court and hoop under dusk sky, high contrast film color grading with natural flash look, extremely sharp yet soft skin rendering with authentic 35mm direct flash aesthetic, natural hair strands, realistic fabric texture on tank top and shorts with socks detail, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm direct flash film basketball court look --ar 9:16
+```
+**Source:** [@BubbleBrain](https://x.com/BubbleBrain/status/2045052982728016131)
+
+### Korean Editorial Portrait with Soft Mist
+<img width="500" alt="Korean Editorial Portrait" src="https://pbs.twimg.com/media/HGU8siPXMAACZEd?format=jpg&name=large" />
+
+**Prompt:**
+```text
+9:16 vertical — editorial portrait, single subject soft black mist filter, subtle haze, gentle highlight bloom, muted tones minimal indoor space, clean background, slight texture young Korean woman, minimal makeup, natural skin texture outfit: fitted ribbed knit top or soft camisole layered under a loose shirt, paired with high-waisted shorts or skirt; fabric slightly clings to body shape, soft and natural, no revealing elements hair: slightly messy, natural volume pose: sitting on floor with one leg bent and the other relaxed, body slightly leaning, shoulders not aligned, head tilted composition: subject slightly off-center, negative space present expression: calm, slightly distant, natural lips lighting: soft side light, gentle shadow falloff mood: understated, quiet, subtly sensual through natural body lines, relaxed and unposed quality: fine grain, slight softness, realistic look
+```
+**Source:** [@BubbleBrain](https://x.com/BubbleBrain/status/2046434670724907395)
+
+### Subway Candid Photo
+<img width="500" alt="Subway Candid Photo" src="https://pbs.twimg.com/media/HGa7l2cbIAA_3nt?format=jpg&name=large" />
+
+**Prompt:**
+```text
+A beautiful woman looking down at her phone on the subway, candid photo.
+```
+**Source:** [@AntCaveClub](https://x.com/AntCaveClub/status/2047136306485133428) | [@underwoodxie96](https://x.com/underwoodxie96/status/2046894877112483997)
+
+### 90s Point-and-Shoot Aesthetic
+<img width="500" alt="90s Point-and-Shoot" src="https://pbs.twimg.com/media/HGb-f9yboAAn3en?format=jpg&name=large" />
+
+**Prompt:**
+```text
+90s + point-and-shoot camera quality
+```
+**Source:** [@sunyunran](https://x.com/sunyunran/status/2047241649957503308)
+
+### Pro Instagram Photo Enhancement
+<img width="500" alt="Pro Instagram Photo" src="https://pbs.twimg.com/media/HGb-f-Aa8AEyQAL?format=jpg&name=large" />
+
+**Prompt:**
+```text
+Make this look like a photo taken by a pro photographer. For Instagram. Include handwritten text too.
+```
+**Source:** [@dezainaz_ceo](https://x.com/dezainaz_ceo/status/2047172512551977162)
+
 ---
 
 ## 🎮 Game & Entertainment
@@ -206,6 +262,25 @@ gameplay screenshot of a lion fighting against an npc in gta san andreas
 ```
 **Comment:** 1.5 is absolute slop, wrong style, not a screenshot, looking like some fake gta game slop, wrong UI, just everything is bad. 2 just looks like it is supposed to look.
 **Source:** [@flowersslop](https://x.com/flowersslop/status/2040693687500341568)
+
+### Japanese Social Game Gacha Screen
+<img width="500" alt="Japanese Gacha Screen" src="https://pbs.twimg.com/media/HGU8siPW8AAEsq-?format=jpg&name=large" />
+
+**Prompt:**
+```text
+日本のソシャゲのガチャ画面を生成して
+```
+**English Translation:** Generate a Japanese social game gacha screen
+**Source:** [@the_wheel_2024](https://x.com/the_wheel_2024/status/2046519658166317160)
+
+### Ximen Qing Game 100-Panel Storyboard
+<img width="500" alt="Ximen Qing Storyboard" src="https://pbs.twimg.com/media/HGU8siOXgAAh8gh?format=jpg&name=large" />
+
+**Prompt:**
+```text
+Ximen Qing game's 100-panel storyboard visuals, 10×10 grid layout, 1:1 square aspect ratio. [Grid Layout] 100 equally sized square cells, strictly arranged in 10 rows and 10 columns, with uniform spacing between cells, professional game
+```
+**Source:** [@ianneo_ai](https://x.com/ianneo_ai/status/2047260183769043119)
 
 ---
 
@@ -346,6 +421,15 @@ product details,
 functions and usage scenarios
 ```
 **Source:** [OpenNana](https://opennana.com/awesome-prompt-gallery/terminator-taobao-page) | [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
+
+### WeChat Chat Interface Screenshot
+<img width="500" alt="WeChat Chat Interface" src="https://pbs.twimg.com/media/HGb-f9za8AAysgt?format=jpg&name=large" />
+
+**Prompt:**
+```text
+Generate an image, aspect ratio 3:4 A real-life smartphone photo, with the phone screen displaying a WeChat chat interface (in Chinese dialogue), featuring chat bubbles and a file (Word document) attachment, the interface has green and gray bubbles, the screen shows obvious fingerprints, smudges, and scratches, the glass has strong reflections, direct light source creating glare, the frame is slightly tilted, handheld shot, natural ambient light, imperfect composition, strong sense of realism, casual everyday snapshot, high detail, 4K
+```
+**Source:** [@Gorden_Sun](https://x.com/Gorden_Sun/status/2047178119854145562)
 
 ---
 
@@ -745,6 +829,35 @@ Generate an image of a 2026 Gaokao exam paper for [subject name]
 Generate a three-day travel guide image for [city]
 ```
 **Source:** [Article](https://x.com/MrLarus/status/2046627021674168640) | [@MrLarus](https://x.com/MrLarus/status/2046523494003851300)
+
+### Personal Color Analysis Diagram
+| Color Analysis 1 | Color Analysis 2 |
+|:----------------:|:----------------:|
+| ![Color Analysis 1](https://pbs.twimg.com/media/HGb-f_JakAANnfD?format=jpg&name=large) | ![Color Analysis 2](https://pbs.twimg.com/media/HGOtEbUbwAAnR5l?format=jpg&name=large) |
+
+**Prompt:**
+```text
+Using this portrait, create a diagram-first personal color analysis. Show which clothing colors suit the subject through visual comparison. Keep text minimal and avoid paragraphs.
+```
+**Source:** [@LinusEkenstam](https://x.com/LinusEkenstam/status/2047286311791341576) | [@AngryTomtweets](https://x.com/AngryTomtweets/status/2046674296559313170)
+
+### Polo Shirt Color Comparison Analysis
+<img width="500" alt="Polo Color Analysis" src="https://pbs.twimg.com/media/HGO_Rb9bgAAdy6i?format=jpg&name=large" />
+
+**Prompt:**
+```text
+Create a personal color analysis using this picture. Use polo clothing color comparisons to highlight which colors suit the subject best. Make it visual-first, with explanations and tips
+```
+**Source:** [@garenaguinaldox](https://x.com/garenaguinaldox/status/2047384051322081738)
+
+### Hairstyle Comparison Analysis
+<img width="500" alt="Hairstyle Analysis" src="https://pbs.twimg.com/media/HGO_hmeaAAA5CoZ?format=jpg&name=large" />
+
+**Prompt:**
+```text
+Create a hairstyle analysis graphic using this picture. Show side-by-side hairstyles comparisons to highlight which hairstyles suit the subject best. Make it visual-first, with short labels only and details about the haircut
+```
+**Source:** [@garenaguinaldox](https://x.com/garenaguinaldox/status/2047384051322081738)
 
 ### Character Relationship Diagram Poster
 | Demon Slayer | Naruto | Bleach | Dragon Ball |
